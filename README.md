@@ -1,4 +1,4 @@
-# Greetings! 👋 I'm Filip Fritsch
+# Greetings! 👋 I'm Filip
 
 Dedicated to the realm of Artificial Intelligence, I find profound joy in crafting Python applications to streamline daily operations and immerse myself in the exploration of emerging technologies.
 
