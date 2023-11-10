@@ -1,16 +1,29 @@
-### Hi there 👋
+# Greetings! 👋 I'm Filip Fritsch
 
-<!--
-**999Fritsch/999Fritsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dedicated to the realm of Artificial Intelligence, I find profound joy in crafting Python applications to streamline daily operations and immerse myself in the exploration of emerging technologies.
 
-Here are some ideas to get you started:
+## 🌱 Continuous Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am deepening my expertise in the following areas:
+
+- Python
+- Docker
+- LangChain
+
+## 📫 Contact Information
+
+Feel free to reach out to me via email: Filip.Fritsch(at)gmail.com
+
+## 💼 Professional Experience
+
+- **Code Monkey** at Bundeswehr KI-Labor
+  - Exploring and implementing innovative solutions
+  - Automation of existing processes to enhance operational efficiency
+
+## 🌍 Languages and Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=999Fritsch&show_icons=true&hide_border=true)
+
+<!-- Optional: add custom images or badges for languages, tools, etc. -->
+
+Thank you for visiting! 😊
