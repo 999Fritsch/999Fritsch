@@ -9,6 +9,7 @@ Currently, I am deepening my expertise in the following areas:
 - Python
 - Docker
 - LangChain
+- Langgraph
 
 ## 📫 Contact Information
 
